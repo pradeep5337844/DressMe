@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b8291c1a-7961-4206-9e7d-996dbd21ef2b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1f2A7ReBA8bm2thvQat2IrfcpqJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="flutter.settings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8291c1a-7961-4206-9e7d-996dbd21ef2b" name="Default Changelist" comment="" />
+      <created>1595405645453</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595405645453</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="96" key="#PSD" timestamp="1595441618734">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="96" key="#PSD/0.0.1366.728@0.0.1366.728" timestamp="1595441618734" />
+    <state x="137" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595407177795">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="137" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1595407177795" />
+    <state x="363" y="100" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1595428330209">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="100" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1595428330209" />
+    <state x="413" y="130" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1595422707489">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="413" y="130" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.768@0.0.1366.768" timestamp="1595422707489" />
+    <state x="359" y="119" key="#main.dart" timestamp="1595405967352">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="359" y="119" key="#main.dart/0.0.1366.768@0.0.1366.768" timestamp="1595405967352" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1595786153291">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1595786153291" />
+    <state width="1323" height="168" key="GridCell.Tab.0.bottom" timestamp="1595786164263">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="168" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1595786164263" />
+    <state width="1323" height="223" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1595424128507" />
+    <state width="1323" height="168" key="GridCell.Tab.0.center" timestamp="1595786164263">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="168" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1595786164263" />
+    <state width="1323" height="223" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1595424128503" />
+    <state width="1323" height="168" key="GridCell.Tab.0.left" timestamp="1595786164263">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="168" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1595786164263" />
+    <state width="1323" height="223" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1595424128503" />
+    <state width="1323" height="168" key="GridCell.Tab.0.right" timestamp="1595786164263">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="168" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1595786164263" />
+    <state width="1323" height="223" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1595424128507" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1595439403728">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1595439403728" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1595422031148">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.0.1366.768@0.0.1366.768" timestamp="1595422031148" />
+    <state x="330" y="89" key="search.everywhere.popup" timestamp="1595422201494">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="330" y="89" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1595422201494" />
+  </component>
+</project>
